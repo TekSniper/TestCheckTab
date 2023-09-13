@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCheckTab", "TestCheckTab\TestCheckTab.csproj", "{FFEEBA64-68E3-483D-88B7-B3CDB0BC7FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEEBA64-68E3-483D-88B7-B3CDB0BC7FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEEBA64-68E3-483D-88B7-B3CDB0BC7FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEEBA64-68E3-483D-88B7-B3CDB0BC7FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEEBA64-68E3-483D-88B7-B3CDB0BC7FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {238D8C6D-7569-400D-BB13-961C8BED8895}
+	EndGlobalSection
+EndGlobal
